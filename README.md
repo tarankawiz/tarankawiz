@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kateryna
 - 👀 I’m interested in politics, economics and the tools to analyze all that.
-- 🌱 I’m currently learning SQL, Python and any tools relevant for analysis
+- 🌱 I’m currently learning SQL, Python, Java and any tools relevant for analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kateryna.taranets.90+github@gmail.com
 
